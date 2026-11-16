@@ -12,7 +12,7 @@
 
 	<path name="gain-media-speaker">
 		<ctl name="DAC Gain" value="55" />
-		<ctl name="Speaker Volume" value="117" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-media-headset">
@@ -23,7 +23,7 @@
 
 	<path name="gain-media-speaker-headset">
 		<ctl name="DAC Gain" value="82" />
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 		<ctl name="Headphone Volume" value="0" />
 		<ctl name="HP Analog Volume AVCBypass" value="54" />
 	</path>
@@ -32,7 +32,7 @@
 	</path>
 
 	<path name="gain-media-speaker-bt-sco-headset">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<!-- Ringtone playback volume -->
@@ -42,7 +42,7 @@
 	</path>
 
 	<path name="gain-ringtone-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-ringtone-headset">
@@ -53,7 +53,7 @@
 
 	<path name="gain-ringtone-speaker-headset">
 		<ctl name="DAC Gain" value="90" />
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 		<ctl name="Headphone Volume" value="0" />
 		<ctl name="HP Analog Volume AVCBypass" value="54" />
 	</path>
@@ -62,7 +62,7 @@
 	</path>
 
 	<path name="gain-ringtone-speaker-bt-sco-headset">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<!-- Communication playback volume -->
@@ -72,7 +72,7 @@
 	</path>
 
 	<path name="gain-communication-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-communication-headset">
@@ -97,7 +97,7 @@
 	</path>
 
 	<path name="gain-samsung_voip-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-samsung_voip-headset">
@@ -122,7 +122,7 @@
 	</path>
 
 	<path name="gain-samsung_voip_fmc-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-samsung_voip_fmc-headset">
@@ -149,7 +149,7 @@
 	</path>
 
 	<path name="gain-voip-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-voip-headset">
@@ -174,7 +174,7 @@
 	</path>
 
 	<path name="gain-wificall_nb-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-wificall_nb-headset">
@@ -199,7 +199,7 @@
 	</path>
 
 	<path name="gain-wificall_wb-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-wificall_wb-headset">
@@ -224,7 +224,7 @@
 	</path>
 
 	<path name="gain-wificall_evs-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-wificall_evs-headset">
@@ -249,7 +249,7 @@
 	</path>
 
 	<path name="gain-video_call-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-video_call-headset">
@@ -274,7 +274,7 @@
 	</path>
 
 	<path name="gain-volte_cp_nb-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-volte_cp_nb-headset">
@@ -299,7 +299,7 @@
 	</path>
 
 	<path name="gain-volte_vt_cp_nb-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-volte_vt_cp_nb-headset">
@@ -324,7 +324,7 @@
 	</path>
 
 	<path name="gain-volte_cp_wb-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-volte_cp_wb-headset">
@@ -349,7 +349,7 @@
 	</path>
 
 	<path name="gain-volte_vt_cp_wb-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-volte_vt_cp_wb-headset">
@@ -374,7 +374,7 @@
 	</path>
 
 	<path name="gain-volte_cp_evs-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-volte_cp_evs-headset">
@@ -399,7 +399,7 @@
 	</path>
 
 	<path name="gain-volte_vt_cp_evs-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-volte_vt_cp_evs-headset">
@@ -426,7 +426,7 @@
 
 	<path name="gain-incall_nb-speaker">
 		<ctl name="DAC Gain" value="55" />
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-incall_nb-headset">
@@ -451,7 +451,7 @@
 	</path>
 
 	<path name="gain-incall_wb-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-incall_wb-headset">
@@ -483,7 +483,7 @@
 	</path>
 
 	<path name="gain-loopback_packet-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-loopback_packet-headset">
@@ -499,7 +499,7 @@
 	</path>
 
 	<path name="gain-realtimeloopback-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-realtimeloopback-headset">
@@ -554,7 +554,7 @@
 	</path>
 
 	<path name="gain-echo_test-speaker">
-		<ctl name="Speaker Volume" value="119" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<!-- call forwarding output volume -->
@@ -1426,7 +1426,7 @@
 	<!-- FM Playback/Recording -->
 	<path name="gain-fm_radio-speaker" >
 		<ctl name="DAC Gain" value="55" />
-		<ctl name="Speaker Volume" value="117" />
+		<ctl name="Speaker Volume" value="125" />
 	</path>
 
 	<path name="gain-fm_radio-headset" >
